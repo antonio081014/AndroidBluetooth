@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Bluetooth</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="devicelist_scan">Scan Device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving &#8230;</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="title_connecting">Status: connecting</string>
+    <string name="title_connected_to">Status: connected</string>
+    <string name="title_not_connected">Status: not connected</string>
+    <string name="messegelist_send">Send</string>
+
+</resources>

@@ -1,0 +1,8 @@
+This is a demo of Bluetooth on Android.
+It involves all of Bluetooth functions required for a Bluetooth Client, which inlucdes:
+
+1, discovery bluetooth devices available around.
+2, programmably pair / unpaire with other bluetooth devices.
+3, monitor the state change of bluetooth device, which includes the change from paired to unpaired, and paring to paired.
+4, enable bluetooth on android.
+5, send and receive data with other bluetooth device.
